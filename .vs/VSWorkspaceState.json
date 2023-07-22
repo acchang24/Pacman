@@ -1,0 +1,16 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "out\\build\\x86-Release",
+      "out\\install\\x86-Release",
+      "out\\build\\x86-Debug",
+      "out\\install\\x86-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\pacman"
+  ],
+  "SelectedNode": "\\CMakeLists.txt",
+  "PreviewInSolutionExplorer": false
+}
